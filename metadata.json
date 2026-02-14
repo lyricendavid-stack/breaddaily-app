@@ -1,0 +1,7 @@
+{
+  "name": "BreadDaily",
+  "description": "A spiritually powerful, youth-focused Bible app designed for teens and young adults to build daily faith habits through modern scripture experiences.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
